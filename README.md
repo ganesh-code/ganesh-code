@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Ganesh
 
-<!--
-**ganesh-code/ganesh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior DevOps Engineer passionate about Cloud, Automation and Infrastructure.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Bash
+- Git & GitHub
+- Docker
+- Kubernetes
+- AWS
+- Terraform
+- Jenkins
+- GitHub Actions
+- Nginx
+
+## Currently Learning
+
+- CI/CD Pipelines
+- Kubernetes
+- AWS
+- Infrastructure as Code
+
+## Current Projects
+
+- Linux Administration Labs
+- Docker Projects
+- Kubernetes Labs
+- AWS Infrastructure
+- GitHub Actions Pipelines
+
+## Goal
+
+Become a Production-ready DevOps Engineer in 56 days.
