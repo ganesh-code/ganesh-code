@@ -1,35 +1,31 @@
-# Hi 👋 I'm Ganesh
+<h1 align="center">Hi 👋, I'm Ganesh Muniganti</h1>
+<h3 align="center">DevOps Engineer building automated, cloud-native infrastructure</h3>
 
-Junior DevOps Engineer passionate about Cloud, Automation and Infrastructure.
+<p align="center">
+📍 Hyderabad, India &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/in/muniganti-ganesh-498772413">LinkedIn</a> &nbsp;|&nbsp; 📄 <a href="#">Resume</a>
+</p>
 
-## Skills
+---
 
-- Linux
-- Bash
-- Git & GitHub
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- Jenkins
-- GitHub Actions
-- Nginx
+### About
 
-## Currently Learning
+I design and automate infrastructure — from containerizing apps to building CI/CD pipelines and provisioning cloud resources with Terraform. I learn in public: every project below is built hands-on, not copy-pasted, using a build → break → explain approach so I actually understand what the commands do.
 
-- CI/CD Pipelines
-- Kubernetes
-- AWS
-- Infrastructure as Code
+Previously worked in product design across SaaS and e-commerce platforms — I bring that same obsession with clear, reliable systems to infrastructure.
 
-## Current Projects
+---
 
-- Linux Administration Labs
-- Docker Projects
-- Kubernetes Labs
-- AWS Infrastructure
-- GitHub Actions Pipelines
+### 🛠 Core Skills
 
-## Goal
+**Cloud & Infra:** AWS (EC2, S3, IAM, VPC) · Terraform  
+**Containers & Orchestration:** Docker · Kubernetes (EKS, Helm)  
+**CI/CD:** Jenkins · GitHub Actions  
+**Systems:** Linux · Bash · Nginx  
+**Version Control:** Git & GitHub
 
-Become a Production-ready DevOps Engineer in 56 days.
+### 📈 Currently Deepening
+
+CI/CD pipelines end-to-end · Kubernetes (GitOps with ArgoCD) · Infrastructure as Code at scale
+### 📫 Let's connect
+
+Open to Junior/Associate DevOps roles. Reach me on ganeshmuniganti27@gmail.com
